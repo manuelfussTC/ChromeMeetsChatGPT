@@ -13,7 +13,8 @@ This repository contains the code for a Chrome extension that interacts with Cha
 To use this project, you will need:
 
 - A PHP server capable of making external requests
-- An OpenAI API key
+- An OpenAI API key (you'll need to insert this in the PHP backend)
+
 
 ## Installation
 
