@@ -15,17 +15,18 @@ To use this project, you will need:
 - A PHP server capable of making external requests
 - An OpenAI API key (you'll need to insert this in the PHP backend)
 
-
 ## Installation
 
 1. **Clone the repository:**
-```
-git clone git@github.com:manuelfussTC/ChromeMeetsChatGPT.git
-``` 
+
+    ```
+   git clone git@github.com:manuelfussTC/ChromeMeetsChatGPT.git
+    ```
+
 
 
 2. **Set up the PHP backend:**
-   Place the PHP files on your server.
+   Place the PHP files on your server. Make sure to insert your OpenAI API key in the relevant section of the PHP script.
 
 3. **Install the Chrome extension:**
 - Open `chrome://extensions/` in Google Chrome.
@@ -40,7 +41,7 @@ git clone git@github.com:manuelfussTC/ChromeMeetsChatGPT.git
 
 ## Configuration
 
-To customize the extension, edit the `script.js` file as needed.
+To customize the extension, edit the `background.js` file as needed.
 
 ## Contributing
 
@@ -48,7 +49,7 @@ Feel free to contribute to this project! Any contribution, whether it be new ide
 
 ## License
 
-This project is under [Your Chosen License].
+This project is under MIT License.
 
 ---
 
