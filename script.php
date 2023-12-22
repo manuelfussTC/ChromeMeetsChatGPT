@@ -1,5 +1,5 @@
 <?php
-const APIKEY = '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';
+const APIKEY = 'YOUR-OPENAI-KEY-HERE';
 
 // Empfange die Daten von der Browsererweiterung
 $content = file_get_contents("php://input");
