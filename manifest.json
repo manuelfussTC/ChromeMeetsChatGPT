@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "GPT-4 Erweiterung",
+  "version": "1.0",
+  "permissions": ["activeTab", "scripting"],
+  "action": {},
+  "background": {
+    "service_worker": "background.js"
+  }
+}
